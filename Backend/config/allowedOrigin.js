@@ -1,5 +1,5 @@
 const allowedOrigins = [
-    'https://sticky-notes-p4vy.onrender.com/'
+    'https://sticky-notes-frontend1.onrender.com'
 ]
 
 module.exports = allowedOrigins
