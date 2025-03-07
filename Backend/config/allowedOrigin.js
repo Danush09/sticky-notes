@@ -1,5 +1,5 @@
 const allowedOrigins = [
-    'http://localhost:3000'
+    'https://sticky-notes-p4vy.onrender.com/'
 ]
 
 module.exports = allowedOrigins
